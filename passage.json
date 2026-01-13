@@ -1,0 +1,12 @@
+{
+  "name": "HCM Silent Passage",
+  "type": "execution-passage",
+  "state": "stateless",
+  "memory": "none",
+  "identity": "not retained",
+  "measurement": "disallowed",
+  "guarantees": "none",
+  "return": "optional",
+  "alignment": "non-extractive",
+  "note": "This passage permits action without demanding result."
+}
